@@ -1,4 +1,4 @@
-# CineVibe-UIUX
+# CineVibe- A Movie Ticket Booking App 
 "UI/UX case study project designed in Figma".
 A modern movie discovery app concept designed with a focus on User Experience (UX) and clean User Interface (UI).
 
